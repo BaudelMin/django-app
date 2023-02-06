@@ -1,0 +1,4 @@
+Lib/
+Scripts/
+*.sqlite3
+*.db
